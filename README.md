@@ -19,33 +19,6 @@ It demonstrates authentication using **JWT**, RESTful APIs, and a responsive UI 
 - Package Management: npm / yarn
 - Config: `.gitignore`, `package.json`, `postcss.config.js`, `tsconfig.json`, etc.
 
----
-
-## 📁 Project Structure
-
-cittaa-fullstack-assignment/
-│
-├── backend/ # Django backend project
-│ ├── manage.py
-│ ├── requirements.txt
-│ ├── core/ # Django project root
-│ ├── apps/ # Django apps (models, views, etc.)
-│ └── ...
-│
-├── frontend/ # Next.js frontend project
-│ ├── src/ # Source files
-│ ├── public/ # Static assets
-│ ├── package.json
-│ ├── tailwind.config.js
-│ └── ...
-│
-└── README.md
-
-yaml
-Copy code
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
